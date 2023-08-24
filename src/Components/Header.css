@@ -1,0 +1,12 @@
+.nav-link-with-spacing{
+    margin-right: 10px;
+    text-decoration: none;
+    color: #6c63ff;
+}
+.nav-link-with-spacing:hover{
+    color: darkblue;
+    .nav-link-with-spacing:hover{
+        text-decoration: underline;
+        color: #6c63ff;
+    }
+}
